@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnthonySummers/datebook"
+    "url": "https://github.com/jshor/datebook"
   },
   "author": "Josh Shor <jpshor@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AnthonySummers/datebook/issues"
+    "url": "https://github.com/jshor/datebook/issues"
   },
   "homepage": "https://datebook.dev",
   "scripts": {
